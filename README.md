@@ -17,6 +17,8 @@
 ![NestJS](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Strapi](https://img.shields.io/badge/-strapi-333333?style=flat&logo=strapi&logoColor=472183)
+
 
 **Utilidades**
 
