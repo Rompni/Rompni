@@ -4,9 +4,7 @@
 
 - 🤔 &nbsp; Exploración de nuevas tecnologías y desarrollo de soluciones de software.
 - 🎓 &nbsp; Estudiando **Inglés**.
-- 💼 &nbsp; Trabajando como **DESARROLLADOR BACKEND** en <a href="https://www.imaginamos.com/">Imaginamos SAS</a>.
 - 🌱 &nbsp; interesado en aprender **GO**.
-- 🏗️ &nbsp; <a href="https://www.recommendationlinks.online/">Proyecto Personal </a>.
 
 <h3> :rocket: &nbsp;Mis Habilidades </h3>
 
