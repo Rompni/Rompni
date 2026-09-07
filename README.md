@@ -14,7 +14,7 @@ Plataforma en producción (App Store). Diseñé y construí el backend de voz y 
 
 `FastAPI` · `LiveKit` · `Gemini Multimodal Live` · `RAG` · `pgvector` · `Supabase` · `GCP` · `Cloud KMS` · `Flutter` (cliente)
 
-Case study (solo docs): [voice-agent-backend-case-study](https://github.com/Rompni/voice-agent-backend-case-study) · más detalle en [andresnavarro.dev](https://www.andresnavarro.dev)
+Proyecto abierto relacionado: [voice-agent-backend](https://github.com/Rompni/voice-agent-backend) · portfolio [andresnavarro.dev](https://www.andresnavarro.dev)
 
 ---
 
@@ -22,7 +22,7 @@ Case study (solo docs): [voice-agent-backend-case-study](https://github.com/Romp
 
 | Proyecto | Qué es |
 |----------|--------|
-| [voice-agent-backend-case-study](https://github.com/Rompni/voice-agent-backend-case-study) | Case study: arquitectura de backend de agentes de voz |
+| [voice-agent-backend](https://github.com/Rompni/voice-agent-backend) | Backend de agentes de voz: FastAPI, LiveKit, RAG/pgvector |
 | [orbidi-ticketing](https://github.com/Rompni/orbidi-ticketing) | Backend FastAPI con auth, WebSockets y asistente IA con tools |
 | [git-worktree-ai-skill](https://github.com/Rompni/git-worktree-ai-skill) | Skill/workflow de git worktrees para flujos con agentes |
 | [tell-py](https://github.com/Rompni/tell-py) | Paquete Python publicado en [PyPI](https://pypi.org/project/tell-py/) |
